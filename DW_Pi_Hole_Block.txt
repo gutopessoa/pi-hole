@@ -1,6 +1,7 @@
 kto.com
 bet365.com
 www.bet365.com
+*.bet365.com
 netbet.com
 betway.com
 sportingbet.com
